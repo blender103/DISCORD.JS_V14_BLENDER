@@ -12,12 +12,8 @@ npm i
 node blender.js
 ```
 
-> NOTE: You may need to wait an hour for the commands to create. 200 Command Creates per day is the limit.
-
-**Command Folder Structure:**
-
-- `context` folder contains the Context Menu commands.
-
 ## 📚
 
 - [HANDLER BOT BY](https://github.com/blender103)
+
+- `DISCORD` Blender#0001.
